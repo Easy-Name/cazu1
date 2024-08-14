@@ -1,5 +1,5 @@
 # cazu1
-basics of csharp
+basics of cjogodavelha
 
 also adding git file
-ok
+and cleaning up unnecessary items
