@@ -1,3 +1,5 @@
 # cazu1
 basics of csharp
-jogo da velha
+
+also adding git file
+ok
